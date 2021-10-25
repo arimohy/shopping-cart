@@ -5,7 +5,7 @@ import 'semantic-ui-css/semantic.min.css'
 import '../index.css'
 import { _getPhones } from '../utils/_DATA'
 import { receivePhones } from '../actions/phones'
-import Container from './container'
+import Container from './Container'
 
 
 class App extends Component {
